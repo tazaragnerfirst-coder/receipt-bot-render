@@ -20,7 +20,7 @@ def keep_alive():
     t.start()
 
 # --- ዋና ኮንፊገሬሽን ---
-API_TOKEN = '8709046631:AAF7l5pLclsxTsH43Yr7Wjg_7VWKN41DkV4' # ያንተ ቦት ቶክን
+API_TOKEN = '8709046631:AAFk0Vvj5pz7KmokgxrQG4W-6IOVnkEjHik' # ያንተ ቦት ቶክን
 DATABASE_URL = 'postgresql://neondb_owner:npg_kCFlTmsuwL37@ep-icy-water-atwln73j.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require' # ደረጃ 1 ላይ ያገኘኸው
 ADMIN_ID = 8397441795 
 
